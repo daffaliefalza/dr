@@ -9,6 +9,10 @@
   --color-font: #111111;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 *,
 ::before,
 ::after {
